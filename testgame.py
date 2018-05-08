@@ -1,3 +1,4 @@
+# Import important modules
 import pygame
 import random
 from pygame.locals import *
