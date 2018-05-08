@@ -1,2 +1,3 @@
-#My Pygame app
+# My Pygame app
+
 First game in Python
